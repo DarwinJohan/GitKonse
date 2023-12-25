@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1> halo </h1>
+    <h1> haze </h1>
 </body>
 </html>
